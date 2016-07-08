@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<BorlandProject>
-	<Transactions>
-    <Transaction>1899.12.30 00:00:00.000.275,C:\Users\Georgiy\Documents\Embarcadero\Studio\DelphiTaskman.pas=C:\Users\Georgiy\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.502,=C:\Users\Georgiy\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.275,C:\Users\Georgiy\Documents\Embarcadero\Studio\DelphiTaskman.dfm=C:\Users\Georgiy\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.903,C:\Users\Georgiy\Documents\Embarcadero\Studio\Project1.dproj=C:\Users\Georgiy\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
-  </Transactions>
-</BorlandProject>
